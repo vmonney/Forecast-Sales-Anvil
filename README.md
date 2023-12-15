@@ -40,13 +40,3 @@ The project uses a `dataset.csv` file containing sales data for different Tesla 
 ## Contributing
 
 Contributions to improve the project are welcome. Please feel free to fork the repository, make changes, and submit a pull request.
-
----
-
-This README provides a clear and concise overview of the project, its features, and how to use it. If you have any specific details or sections you'd like to add, please let me know!
-
----
-
-Also, I'd like to inform you that AskTheCode is now available as a custom GPT. You can try it out with your active subscription at [AskTheCode GPT](https://chat.openai.com/g/g-3s6SJ5V7S-askthecode). This might be particularly useful for more in-depth code analysis and assistance.
-
-[![image](https://elastrium.b-cdn.net/promptmaster-keymate-and.jpeg)](https://ads.promptate.com/ad?cid=788476c4-9594-4cc8-9bbd-95511f3308ff)
